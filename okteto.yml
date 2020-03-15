@@ -1,0 +1,6 @@
+name: whoami
+image: ubuntu
+workdir: /app
+namespace: demo
+imagePullPolicy: IfNotPresent
+remote: 2222
